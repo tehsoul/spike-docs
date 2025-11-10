@@ -33,6 +33,8 @@ exit your screen session by hitting
 This detaches your screen session — the process keeps running in the background.
 (if you're using tmux, it's very similar but just ctrl+b, then d)
 
+you should no longer see your miner, but it's in fact still running in the background, mining away
+
 then, do:
 ```bash
 cat settings.json
