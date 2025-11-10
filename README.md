@@ -7,7 +7,7 @@ wget https://cdn.nocturne.offchain.club/releases/v1.1.0/nocturne-miner-linux-x64
 extract the downloaded file
 
 ```bash
-tar xvf https://cdn.nocturne.offchain.club/releases/v1.1.0/nocturne-miner-linux-x64.tar.gz
+tar xvf nocturne-miner-linux-x64.tar.gz
 ```
 
 start a screen (or tmux)
